@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# Macast 运行时生成的文件
+macast.ass
+potplayer_debug.log
